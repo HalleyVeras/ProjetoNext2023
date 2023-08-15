@@ -19,8 +19,8 @@
 
 # Java Project - Curso Next2023
 <div align="center">
- <a href="[https://www.python.org/](https://www.cesar.org.br)" target="_blank" rel="noreferrer">
-      <img  alt="python" height="400x" style="padding-right:10px;" src="https://www.cesar.org.br/image/layout_set_logo?img_id=1086110&t=1683038460804" />
+   <a href="https://www.cesar.org.br" target="_blank" rel="noreferrer">
+      <img  alt="Cesar" height="400px" style="padding-right:10px;" src="https://www.cesar.org.br/image/layout_set_logo?img_id=1086110&t=1683038460804" />
   </a>
 </div>
 
